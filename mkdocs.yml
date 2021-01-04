@@ -1,4 +1,5 @@
-site_name: "lanmarti's homepage"
+site_name: lanmarti
+theme: 'material'
 
 nav:
   - Home: 'index.md'
