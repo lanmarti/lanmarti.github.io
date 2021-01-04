@@ -1,0 +1,4 @@
+nav:
+  - Home: 'index.md'
+  - Foo: 'foo.md'
+  - Bar: 'bar.md'
