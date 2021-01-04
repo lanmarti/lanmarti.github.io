@@ -1,3 +1,5 @@
+site_name: "lanmarti's homepage"
+
 nav:
   - Home: 'index.md'
   - Foo: 'foo.md'
